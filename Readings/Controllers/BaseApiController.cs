@@ -9,6 +9,5 @@ namespace Readings.Controllers
 {
     public class BaseApiController : ApiController
     {
-		public 
     }
 }

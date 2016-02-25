@@ -9,6 +9,7 @@ namespace Readings.App_Start
     using SimpleInjector.Extensions;
     using SimpleInjector.Integration.Web;
     using SimpleInjector.Integration.Web.Mvc;
+	using Readings.Entities;
     
     public static class SimpleInjectorInitializer
     {

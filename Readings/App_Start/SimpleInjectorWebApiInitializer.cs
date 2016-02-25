@@ -5,6 +5,7 @@ namespace Readings.App_Start
     using System.Web.Http;
     using SimpleInjector;
     using SimpleInjector.Integration.WebApi;
+	using Readings.Entities;
     
     public static class SimpleInjectorWebApiInitializer
     {
